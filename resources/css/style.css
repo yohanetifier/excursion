@@ -1,0 +1,71 @@
+body {
+    background-color: black; 
+    font-size: 16px;
+    color: white;
+    font-family: Verdana;  
+}
+
+header h1{
+    font-family: verdana;
+    font-weight: normal; 
+    font-size: 3.125rem; 
+    color: white; 
+    text-align: center;
+
+}
+
+a{
+    color: aquamarine; 
+    font-size: 1rem; 
+    text-align:center; 
+    display: block; 
+}
+
+.video{
+    text-align: center;
+}
+
+.intermediaire{
+    text-align: center;
+}
+
+h2{
+    font-weight: 300; 
+    font-size: 2.625rem; 
+}
+
+p{
+    color: grey; 
+    font-size: 1.3125rem; 
+}
+
+figure {
+    
+    overflow: hidden; 
+    display: flex; 
+    justify-content: center; 
+
+}
+
+img{
+    text-align: center; 
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+}
+
+.iphone{
+    display: flex; 
+    justify-content: center;
+    color: black;
+}
+
+.coming-soon{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+
+
+
